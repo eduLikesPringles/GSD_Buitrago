@@ -1,0 +1,6 @@
+- copia de esto en git remoto
+- hablar con todos los profes con los que me coordino
+- buscar a manuel melero tic para reenviar credenciales
+- gema dará horario en unos días
+- me darán un ordenador corporativo
+- me tengo que meter en office 365 online con las credenciales por correo pa ver si funciona. si no, hablar con manuel.
