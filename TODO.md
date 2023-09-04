@@ -1,6 +1,8 @@
-- copia de esto en git remoto
+- preparar presentación primer día chavales
+- asegurarme de que tengo material de todas las asignaturas y cambiar a sí en el excel
+- pedir llaves a josemi
 - hablar con todos los profes con los que me coordino
-- buscar a manuel melero tic para reenviar credenciales
-- gema dará horario en unos días
-- me darán un ordenador corporativo
-- me tengo que meter en office 365 online con las credenciales por correo pa ver si funciona. si no, hablar con manuel.
+- conseguir nombre completo de iñaki el que va a dar servicios microinformáticos
+- hablar con tere para no se qué de teleco
+
+psr 
